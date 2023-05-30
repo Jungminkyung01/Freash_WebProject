@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//ETE Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper>
+<!-- 게시물 삭제 -->
+<delete id="delete" parameterType="int">
+ delete
+  from add1
+ where id = #{id}
+</delete>
+</mapper>
