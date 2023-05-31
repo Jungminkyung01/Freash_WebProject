@@ -24,10 +24,16 @@
 <h2>💻개발 화면</h2>
 <h5>로그인 / 회원가입 페이지</h5>
  <div>
- 
+<img src="https://user-images.githubusercontent.com/97931260/233273369-d4fa521b-b0ca-42aa-9041-53909283fd16.png" style="width: 400px;">
+<img src="https://user-images.githubusercontent.com/97931260/233273357-a69710a4-28dc-4f3c-8237-5626763825ef.png" style="width: 400px;">
 </div>
 <h5>메인 페이지</h5>
-<div></div>
+<div>
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/e0697986-a9b0-473a-832d-495c31fa3359.png" style="width: 400px;">
+</div>
+<h5>채소 페이지 (큰 카테고리)</h5>
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/ae491289-a67f-4e95-8dee-6375a3fbcf11.png" style="width: 400px;">
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/9acef312-9d34-47da-ab4f-026890f51f36.png" style="width: 400px;">
 
 <hr>
 <h3>🔎세부 구현</h3>
