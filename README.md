@@ -31,9 +31,9 @@
 <div>
 <img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/e0697986-a9b0-473a-832d-495c31fa3359.png" style="width: 400px;">
 </div>
-<h5>채소 페이지 (큰 카테고리)</h5>
+<h5>큰 카테고리(예시: 채소페이지 / 고기류 페이지)</h5>
 <img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/ae491289-a67f-4e95-8dee-6375a3fbcf11.png" style="width: 400px;">
-<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/9acef312-9d34-47da-ab4f-026890f51f36.png" style="width: 400px;">
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/4dcae672-1965-4fa5-93b0-2945190508b3.png" style="width: 400px;">
 
 <hr>
 <h3>🔎세부 구현</h3>
