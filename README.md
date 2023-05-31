@@ -34,6 +34,9 @@
 <h5>큰 카테고리(예시: 채소페이지 / 고기류 페이지)</h5>
 <img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/ae491289-a67f-4e95-8dee-6375a3fbcf11.png" style="width: 400px;">
 <img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/4dcae672-1965-4fa5-93b0-2945190508b3.png" style="width: 400px;">
+<h5>인기 레시피 / 인기 유저</h5>
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/65f049e8-f173-42ca-b555-cbfe090c115d.png" style="width: 400px;">
+<img src="https://github.com/Jungminkyung01/Freash_WebProject/assets/97931260/2c9ea20d-197c-4431-b606-b791bce64fcf.png" style="width: 400px;">
 
 <hr>
 <h3>🔎세부 구현</h3>
